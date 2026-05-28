@@ -187,8 +187,14 @@ Cambiar **descripción a una interfaz**
 description Connected to Customer
 ```
 
-Mostrar los cambios de configuración hasta el momento
+Mostrar los **cambios de configuración** hasta el momento
 
 ```Java
 sh run
+```
+
+Para **copiar** lo que hemos estado haciendo
+
+```Java
+copy run start
 ```
