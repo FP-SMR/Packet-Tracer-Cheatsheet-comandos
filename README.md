@@ -60,6 +60,20 @@ Ver todas las acciones posibles en el modo que estéas
 ?
 ```
 
+**Velocidad** (Modo configuración)
+
+```Java
+Speed 100
+```
+
+El modo del **puerto**
+
+```Java
+Switch(config-if)#duplex full
+Switch(config-if)#no duplex full
+Switch(config-if)#duplex half
+```
+
 
 
 Cambiar nombre **router / switch** (obligatorio modo configuración + privilegiado)
