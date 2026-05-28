@@ -74,7 +74,23 @@ Switch(config-if)#no duplex full
 Switch(config-if)#duplex half
 ```
 
+Para ver la tabla **MAC** de el switch
 
+```Java
+show mac-address-table
+```
+
+Para ver el estado de las **interfaces de el switch**
+
+```Java
+show ip interface brief
+```
+
+Para ver las VLAN definidas y sus puertos
+
+```Java
+sh vlan
+```
 
 Cambiar nombre **router / switch** (obligatorio modo configuración + privilegiado)
 
