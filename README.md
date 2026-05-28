@@ -6,7 +6,7 @@
 
 
 
-## Accesos 
+## Comandos clave
 
 ---
 
