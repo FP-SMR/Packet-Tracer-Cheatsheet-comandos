@@ -8,39 +8,39 @@
 
 ## Accesos 
 
-Para entrar a modo privilegio
+Para entrar a **modo privilegio**
 
 ```Java
 enable
 ```
 
-Salir al modo anterior
+Salir al **modo anterior**
 
 ```Java
 exit
 ```
 
 
-Volver directamente al modo privilegiado 
+Volver directamente al **modo privilegiado** 
 
 ```Java
 end
 ```
 
-Entrar en configuración global
+Entrar en **configuración global**
 
 ```Java
 configure terminal
 ```
 
-Cambiar nombre router / switch
+Cambiar nombre **router / switch**
 
 ```Java
 Router(config)#hostname R1
 R1(config)#
 ```
 
-Configurar interfaz IP
+Configurar **interfaz IP**
 
 ```
 interface gigabitEthernet 0/0
@@ -48,13 +48,13 @@ ip address 192.168.1.1 255.255.255.0
 no shutdown
 ```
 
-Para apagar interfaz
+Para **apagar interfaz**
 
 ```
 shutdown
 ```
 
-Para encender interfaz 
+Para **encender interfaz** 
 
 ```
 no shutdown
