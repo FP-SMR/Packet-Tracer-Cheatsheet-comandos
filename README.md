@@ -35,7 +35,7 @@ Entrar en **configuración global**
 configure terminal
 ```
 
-Cambiar nombre **router / switch**
+Cambiar nombre **router / switch** (obligatorio modo configuración + privilegiado)
 
 ```Java
 Router(config)#hostname R1
