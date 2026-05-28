@@ -8,6 +8,8 @@
 
 ## Accesos 
 
+---
+
 Para entrar a **modo privilegio**
 
 ```Java
