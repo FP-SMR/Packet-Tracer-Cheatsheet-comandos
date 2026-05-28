@@ -110,6 +110,18 @@ show ip route
 
 Eliminar la **entrada**
 
-```
+```Java
 no ip route 20.10.0.0 255.255.0.0 200.10.12. 2
+```
+
+La ayuda de el comando **interface**
+
+```Java
+interface ?
+```
+
+Para asignar IP y máscara a la interfaz
+
+```Java
+ip address 192.168.1.1 255.255.255.0
 ```
