@@ -47,7 +47,6 @@ Configurar **interfaz IP**
 ```
 interface gigabitEthernet 0/0
 ip address 192.168.1.1 255.255.255.0
-no shutdown
 ```
 
 Para **apagar interfaz**
