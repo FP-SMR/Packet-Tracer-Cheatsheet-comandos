@@ -92,3 +92,9 @@ Añadir nueva **entrada**
 ```Java
 ip route 20.10.0.0 255.255.0.0 200.10.12. 2
 ```
+
+Verificar la tabla de enrutamiento
+
+```Java
+show ip route
+```
