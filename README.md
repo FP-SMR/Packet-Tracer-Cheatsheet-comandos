@@ -52,21 +52,37 @@ R1(config)#
 
 Configurar **interfaz IP**
 
-```
+```Java
 interface gigabitEthernet 0/0
 ip address 192.168.1.1 255.255.255.0
 ```
 
 Para **apagar interfaz**
 
-```
+```Java
 shutdown
 ```
 
 Para **encender interfaz** 
 
-```
+```Java
 no shutdown
 ```
 
+Para activar protocolo **RIP**
 
+```Java
+configure terminal
+router rip
+version 2
+network 192.168.1.0
+auto-summary
+```
+
+Para comprobar el protocolo
+
+```Java
+end
+[ENTER]
+show ip protocols
+```
