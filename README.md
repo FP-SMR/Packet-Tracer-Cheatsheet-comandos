@@ -80,6 +80,14 @@ network 192.168.1.0
 auto-summary
 ```
 
+
+Para entrar en una interfaz
+
+```Java
+Interface FastEthernet0/0
+```
+
+
 Para comprobar el **protocolo RIP**
 
 ```Java
