@@ -21,7 +21,7 @@
 
 ### Redes Locales • Packet Tracer • FP-SMR
 
-<sub>Hecho con ❤️ por Nicolás Fernández Núñez | 1 FP CM</sub>
+<sub>Hecho con ❤️ por Nicolás Fernández Núñez </sub>
 
 </div>
 
