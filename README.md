@@ -79,10 +79,16 @@ network 192.168.1.0
 auto-summary
 ```
 
-Para comprobar el protocolo
+Para comprobar el **protocolo RIP**
 
 ```Java
 end
 [ENTER]
 show ip protocols
+```
+
+Añadir nueva **entrada**
+
+```Java
+ip route 20.10.0.0 255.255.0.0 200.10.12. 2
 ```
