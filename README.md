@@ -48,7 +48,7 @@ Volver directamente al **modo privilegiado**
 end
 ```
 
-Ver privilegios actuales
+Ver **privilegios** actuales
 
 ```Java
 show privilege
@@ -60,7 +60,7 @@ Entrar en **configuración global**
 configure terminal
 ```
 
-Ver todas las acciones posibles en el modo que estéas
+Ver todas las **acciones posibles** en el modo que estéas
 
 ```Java
 ?
@@ -92,7 +92,7 @@ Para ver el estado de las **interfaces de el switch**
 show ip interface brief
 ```
 
-Para ver las VLAN definidas y sus puertos
+Para ver las **VLAN definidas y sus puertos**
 
 ```Java
 sh vlan
