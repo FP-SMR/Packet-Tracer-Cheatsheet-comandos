@@ -186,3 +186,9 @@ Cambiar **descripción a una interfaz**
 ```Java
 description Connected to Customer
 ```
+
+Mostrar los cambios de configuración hasta el momento
+
+```Java
+sh run
+```
