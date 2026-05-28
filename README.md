@@ -48,6 +48,12 @@ Volver directamente al **modo privilegiado**
 end
 ```
 
+Ver privilegios actuales
+
+```Java
+show privilege
+```
+
 Entrar en **configuración global**
 
 ```Java
