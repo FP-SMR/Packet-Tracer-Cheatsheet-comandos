@@ -66,7 +66,7 @@ Ver todas las acciones posibles en el modo que estéas
 Speed 100
 ```
 
-El modo del **puerto** Switch
+El modo del **puerto** en interfaz Switch
 
 ```Java
 Switch(config-if)#duplex full
