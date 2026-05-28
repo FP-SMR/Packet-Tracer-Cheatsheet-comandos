@@ -37,7 +37,7 @@ configure terminal
 
 Ver todas las acciones posibles en el modo que estéas
 
-```
+```Java
 ?
 ```
 
@@ -68,4 +68,5 @@ Para **encender interfaz**
 ```
 no shutdown
 ```
+
 
