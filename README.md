@@ -72,6 +72,7 @@ no shutdown
 Para activar protocolo **RIP**
 
 ```Java
+enable
 configure terminal
 router rip
 version 2
