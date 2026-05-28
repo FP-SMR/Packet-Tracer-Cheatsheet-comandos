@@ -181,7 +181,7 @@ Para asignar **IP y máscara** a la interfaz
 ip address 192.168.1.1 255.255.255.0
 ```
 
-Cambiar **nombre a una interfaz**
+Cambiar **descripción a una interfaz**
 
 ```Java
 description Connected to Customer
