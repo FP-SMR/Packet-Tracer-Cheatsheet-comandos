@@ -2,7 +2,16 @@
 
 <img width="454" height="358" alt="image" src="https://github.com/user-attachments/assets/08d385fa-e15c-44e2-a05d-6da8ad27bba4" />
 
-
+![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?logo=cisco&logoColor=white)
+![Routing](https://img.shields.io/badge/Routing-RIP%20v2-blue?logo=protocolsio&logoColor=white)
+![Static Routes](https://img.shields.io/badge/Static%20Routing-ip%20route-green?logo=googlecloud&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-IOS%20Commands-black?logo=gnubash&logoColor=white)
+![Switching](https://img.shields.io/badge/Switching-VLANs-orange?logo=cisco&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-TCP%2FIP-red?logo=cloudflare&logoColor=white)
+![Simulation](https://img.shields.io/badge/Simulation-Mode-purple?logo=databricks&logoColor=white)
+![Router](https://img.shields.io/badge/Router-Configuration-yellow?logo=serverfault&logoColor=black)
+![Switch](https://img.shields.io/badge/Switch-Configuration-success?logo=switch&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-Network%20Labs-005073?logo=cisco&logoColor=white)
 
 
 
