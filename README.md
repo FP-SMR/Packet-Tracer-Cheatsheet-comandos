@@ -35,6 +35,14 @@ Entrar en **configuración global**
 configure terminal
 ```
 
+Ver todas las acciones posibles en el modo que estéas
+
+```
+?
+```
+
+
+
 Cambiar nombre **router / switch** (obligatorio modo configuración + privilegiado)
 
 ```Java
