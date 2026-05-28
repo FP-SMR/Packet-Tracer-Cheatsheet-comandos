@@ -13,11 +13,17 @@
 ![Switch](https://img.shields.io/badge/Switch-Configuration-success?logo=switch&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-Network%20Labs-005073?logo=cisco&logoColor=white)
 
+<div align="center">
 
+### Redes Locales • Packet Tracer • FP-SMR
 
-## Comandos clave
+<sub>Hecho con ❤️ por Nicolás Fernández Núñez | 1 FP CM</sub>
+
+</div>
 
 ---
+
+## Comandos clave
 
 Para entrar a **modo privilegio**
 
