@@ -272,9 +272,9 @@ Indica si las siguientes afirmaciones son verdaderas (V) o falsas (F). En caso d
 
 SOLUCIÓN:
 
-4.- **Falso** DHCP no tramita por TCP usa el protocolo UDP. protocolo no orientado a conexión. Primero manda los datos antes de establecer la conexión.
+4.- **FALSO** DHCP no tramita por TCP usa el protocolo UDP. protocolo no orientado a conexión. Primero manda los datos antes de establecer la conexión.
 
-5.- **Verdadero** DHCP asigna parámetros de red como la IP, máscara, puerta de enlace predeterminada o gatewat, DNS...
+5.- **VERDADERO** DHCP asigna parámetros de red como la IP, máscara, puerta de enlace predeterminada o gatewat, DNS...
 
 6.- **VERDADERO** Por que podrían asignar la misma IP a un equipo
 
