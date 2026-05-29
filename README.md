@@ -200,7 +200,11 @@ Para **copiar** lo que hemos estado haciendo
 copy run start
 ```
 
-# Boletín 1 Protocolo DHCP (Dynamic Host Configuration Protocol)
+---
+
+# BOLETINES RESUELTOS + EXPLICADOS
+
+## Boletín 1 Protocolo DHCP (Dynamic Host Configuration Protocol)
 
 ```Java
 Ejercicio 1. ¿Para qué sirve DHCP?
