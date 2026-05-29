@@ -214,6 +214,8 @@ Responde:
     3. ¿En qué tipo de redes crees que sigue siendo razonable configurar IP manualmente?
 ```
 
+SOLUCIÓN:
+
 1) El escenario más rápido es el **B** sin duda alguna, son muchos equipos para hacerlo manual, DHCP asigna los parámetros de red automáticamente.
    
 2) Los dos ordenadores pueden perder la conexión, o funcionar de forma inestable, prácticamente nulo. Con recursos externos como internet habrá problemas por que si usan la misma IP no sabe a quien mandar los datos.
@@ -231,6 +233,8 @@ Concepto	Definición
 5. Reserva	E. Asociación fija entre una MAC y una IP concreta dentro del ámbito.
 
 ```
+
+SOLUCIÓN:
 
 1.- **Servidor DHCP** --> D. Equipo que entrega configuración IP a otros equipos.
 
