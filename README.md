@@ -246,3 +246,31 @@ SOLUCIÓN:
 
 5.- **Reserva** --> E. Asociación fija entre una MAC y una IP concreta dentro de el ámbito.
 
+
+```Java
+Ejercicio 3 Verdadero o Falso
+
+Indica si las siguientes afirmaciones son verdaderas (V) o falsas (F). En caso de ser falsa, justifica brevemente por qué.
+    4. DHCP utiliza el protocolo TCP para garantizar la entrega de la IP.
+    5. Un servidor DHCP puede entregar también la dirección del servidor DNS.
+    6. Si en una red hay dos servidores DHCP mal configurados con rangos solapados, pueden producirse conflictos de IP.
+    7. El cliente DHCP descubre al servidor mediante un mensaje unicast dirigido a su MAC.
+    8. Cuando un equipo se enciende, conserva siempre la misma IP que tenía la última vez, incluso si el lease ha caducado.
+    9. El servidor DHCP escucha peticiones en el puerto 67.
+```
+
+SOLUCIÓN:
+
+4.- **Falso** DHCP no tramita por TCP usa el protocolo UDP. protocolo no orientado a conexión. Primero manda los datos antes de establecer la conexión.
+
+5.- **Verdadero** DHCP asigna parámetros de red como la IP, máscara, puerta de enlace predeterminada o gatewat, DNS...
+
+6.- **VERDADERO** Por que podrían asignar la misma IP a un equipo
+
+7.- **FALSO** después de el paquete DHCP Discover le hace un broadcast a la red, unicast imposible por que no tiene la IP de el servidor.
+
+8.- **FALSO** si el lease caduca se le asigna otra.
+
+9.- **VERDADERO** siempre con el puerto 67 suele suele ser servidor y 68 cliente y ambos se tramitan por UDP.
+
+
