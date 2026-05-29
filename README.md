@@ -206,6 +206,9 @@ copy run start
 
 ## Boletín 1 Protocolo DHCP (Dynamic Host Configuration Protocol)
 
+---
+
+
 ```Java
 Ejercicio 1. ¿Para qué sirve DHCP?
 
