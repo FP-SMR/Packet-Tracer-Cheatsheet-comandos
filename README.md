@@ -17,6 +17,7 @@
 
 
 
+
 <div align="center">
 
 ### Redes Locales • Packet Tracer • FP-SMR
@@ -198,3 +199,46 @@ Para **copiar** lo que hemos estado haciendo
 ```Java
 copy run start
 ```
+
+### Boletín 1 Protocolo DHCP (Dynamic Host Configuration Protocol)
+
+```Java
+Ejercicio 1. ¿Para qué sirve DHCP?
+
+Imagina que en tu aula hay 25 ordenadores y todos necesitan conectarse a Internet. El profesor te plantea dos escenarios:
+    • Escenario A: configuras manualmente la IP, la máscara, la puerta de enlace y el DNS en cada uno de los 25 equipos.
+    • Escenario B: instalas un servidor DHCP en la red para que los equipos se configuren automáticamente.
+Responde:
+    1. ¿Cuál de los dos escenarios crees que es más rápido? ¿Por qué?
+    2. Indica dos problemas que pueden aparecer en el Escenario A si dos alumnos eligen la misma IP.
+    3. ¿En qué tipo de redes crees que sigue siendo razonable configurar IP manualmente?
+```
+
+1) El escenario más rápido es el **B** sin duda alguna, son muchos equipos para hacerlo manual, DHCP asigna los parámetros de red automáticamente.
+   
+2) Los dos ordenadores pueden perder la conexión, o funcionar de forma inestable, prácticamente nulo. Con recursos externos como internet habrá problemas por que si usan la misma IP no sabe a quien mandar los datos.
+
+3) En redes que haya pocos equipos como en una red doméstica. O algunas que necesitan usar siempre la misma IP como cámaras de seguridad por ejemplo.
+
+```Java
+Ejercicio 2. Asocial
+
+Concepto	Definición
+1. Servidor DHCP	A. Tiempo durante el que un equipo puede usar la IP que se le ha entregado.
+2. Cliente DHCP	B. Rango de direcciones IP que el servidor puede repartir.
+3. Concesión (lease)	C. Equipo que solicita configuración de red automática.
+4. Ámbito (scope)	D. Equipo que entrega configuración IP a otros equipos.
+5. Reserva	E. Asociación fija entre una MAC y una IP concreta dentro del ámbito.
+
+```
+
+1.- **Servidor DHCP** --> D. Equipo que entrega configuración IP a otros equipos.
+
+2.- **Cliente DHCP** --> C. Equipo que solicita configuración de red automática.
+
+3.- **Concesión** (lease) --> A. Tiempo durante el que un equipo puede usar la IP que se le ha entregado.
+
+4.- **Ámbito** (scope) --> B. Rango de direcciones IP que el servidor puede repartir.
+
+5.- **Reserva** --> E. Asociación fija entre una MAC y una IP concreta dentro de el ámbito.
+
