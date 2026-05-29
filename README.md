@@ -226,6 +226,8 @@ SOLUCIÓN:
 
 3) En redes que haya pocos equipos como en una red doméstica. O algunas que necesitan usar siempre la misma IP como cámaras de seguridad por ejemplo.
 
+---
+
 ```Java
 Ejercicio 2. Asocial
 
@@ -250,6 +252,8 @@ SOLUCIÓN:
 
 5.- **Reserva** --> E. Asociación fija entre una MAC y una IP concreta dentro de el ámbito.
 
+
+---
 
 ```Java
 Ejercicio 3 Verdadero o Falso
@@ -278,3 +282,4 @@ SOLUCIÓN:
 9.- **VERDADERO** siempre con el puerto 67 suele suele ser servidor y 68 cliente y ambos se tramitan por UDP.
 
 
+---
